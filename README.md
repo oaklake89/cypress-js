@@ -51,6 +51,15 @@ Anpassade inställningar:
 }
 ```
 
+IntelliSense:
+`jsconfig.json`
+
+```json
+{
+  "include": ["./node_modules/cypress", "cypress/**/*.js"]
+}
+```
+
 ### Cucumber på svenska
 
 Inkludera följande tagg på första raden i feature-filen:
