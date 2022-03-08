@@ -51,7 +51,7 @@ Anpassade inställningar:
 }
 ```
 
-IntelliSense:
+IntelliSense:  
 `jsconfig.json`
 
 ```json
